@@ -1,4 +1,5 @@
 ---
+title: 博客
 feature_text: |
   ## areslan
   areslan 的技术博客
