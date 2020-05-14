@@ -64,7 +64,7 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: 内容 # Needed for Siteleaf
+    title: 博客 # Needed for Siteleaf
     output: true
     description: "所思所想所学" # The post list page content
     feature_text: |
