@@ -1,5 +1,5 @@
 ---
-title: 分类 
+title: Categories
 layout: Categories
 excerpt: "Category index"
 aside: true
