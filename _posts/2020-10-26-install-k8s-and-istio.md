@@ -2,7 +2,6 @@
 title: 部署k8s+istio 
 categories:
 - k8s
-- 部署
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
