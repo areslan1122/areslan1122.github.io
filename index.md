@@ -8,7 +8,9 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 layout: page
 ---
 
-
+<center>
+  希望我能在这儿不断的记录自己的工作和学习，如果能帮到你那就更棒了。
+</center>
 
 {% include button.html text="联系我" icon="github" link="https://github.com/areslan1122" color="#0366d6" %}
 
