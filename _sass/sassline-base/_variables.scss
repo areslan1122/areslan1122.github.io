@@ -7,20 +7,20 @@
 // Change names if you prefer, it wont break the mixin as long as they are strings not just numbers.
 $breakpoints: (
   break-0: 0,     // 0px       Mobile first
-  break-1: 640,   // 640px   ~ Small tablet up
-  break-2: 800,   // 800px   ~ Large tablet up
-  break-3: 1024,  // 1024px  ~ Desktop up
-  break-4: 1600   // 1600px  ~ Large desktop up
+  break-1: 740,   // 640px   ~ Small tablet up
+  break-2: 900,   // 800px   ~ Large tablet up
+  break-3: 1124,  // 1024px  ~ Desktop up
+  break-4: 1700   // 1600px  ~ Large desktop up
 ) !default;
 
 // Root font-sizes for each breakpoint. Set to half desired line-height of body text.
 // ! Make sure to have as many sizes as breakpoints above.
 $rootsizes: (
-  rootsize-0: 19,   // 24px line-height body text
-  rootsize-1: 11,   // 28px line-height body text
-  rootsize-2: 13,   // 30px line-height body text
-  rootsize-3: 15,   // 34px line-height body text
-  rootsize-4: 17    // 38px line-height body text
+  rootsize-0: 18,   // 24px line-height body text
+  rootsize-1: 10,   // 28px line-height body text
+  rootsize-2: 12,   // 30px line-height body text
+  rootsize-3: 14,   // 34px line-height body text
+  rootsize-4: 16    // 38px line-height body text
 ) !default;
 
 // Set the optimum line-length for your text (based on typeface).
@@ -28,21 +28,21 @@ $rootsizes: (
 // ! Make sure to have as many widths as breakpoints above.
 // Note: this was 'maxwidths' in previous versions.
 $measures: (
-  measure-0: 500,  // 500px wide
-  measure-1: 550,  // 550px wide
-  measure-2: 600,  // 600px wide
-  measure-3: 680,  // 680px wide
-  measure-4: 750   // 750px wide
+  measure-0: 700,  // 500px wide
+  measure-1: 750,  // 550px wide
+  measure-2: 800,  // 600px wide
+  measure-3: 880,  // 680px wide
+  measure-4: 950   // 750px wide
 ) !default;
 
 // Set the max-widths for containers (based on design).
 // ! Make sure to have as many widths as breakpoints above.
 $maxwidths: (
-  width-0: 500,  // 500px wide
-  width-1: 600,  // 600px wide
-  width-2: 800,  // 800px wide
-  width-3: 1100, // 110px wide
-  width-4: 1300  // 1300px wide
+  width-0: 600,  // 500px wide
+  width-1: 700,  // 600px wide
+  width-2: 850,  // 800px wide
+  width-3: 1200, // 110px wide
+  width-4: 1400  // 1300px wide
 ) !default;
 
 // Gutter widths
